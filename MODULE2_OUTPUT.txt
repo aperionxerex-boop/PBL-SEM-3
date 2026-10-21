@@ -1,0 +1,28 @@
+========================================
+       MODULE 2: TOPOLOGY OPTIMIZATION
+========================================
+
+AP1 <--> AP2   Cost = 19.50
+AP1 <--> AP3   Cost = 31.75
+AP2 <--> AP3   Cost = 13.50
+AP2 <--> AP4   Cost = 45.25
+AP3 <--> AP4   Cost = 24.50
+
+
+========================================
+       OPTIMIZED CONNECTIONS
+========================================
+
+AP1 <--> AP2   Cost = 19.50
+AP2 <--> AP3   Cost = 13.50
+AP3 <--> AP4   Cost = 24.50
+
+Original connections : 5
+Optimized connections: 3
+Connections removed  : 2
+Total optimized cost : 57.50
+
+Optimized data saved in optimized.txt
+
+MODULE 2 COMPLETED.
+PS C:\Users\aniru\OneDrive\Desktop\WORK\PBL>
